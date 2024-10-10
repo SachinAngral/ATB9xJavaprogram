@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="780e86b6-7420-448a-9817-b08474a1a745" name="Changes" comment="">
+    <list default="true" id="780e86b6-7420-448a-9817-b08474a1a745" name="Changes" comment="Base Project added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_03102024/Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_03102024/Lab002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_03102024/Lab003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_03102024/Lab003.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SachinAngral"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/SachinAngral/ATB9xJavaprogram.git",
@@ -114,6 +116,30 @@
       <option name="presentableId" value="Default" />
       <updated>1728344522219</updated>
     </task>
+    <task id="LOCAL-00001" summary="Base Project added">
+      <option name="closed" value="true" />
+      <created>1728347598942</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728347598942</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Base Project added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Base Project added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Oct/ex_03102024/Lab003.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
